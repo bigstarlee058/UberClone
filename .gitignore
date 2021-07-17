@@ -7,3 +7,6 @@ android/*.aab
 
 android/rider/app/google-services.json
 android/driver/app/google-services.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
